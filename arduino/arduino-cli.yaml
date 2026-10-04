@@ -1,0 +1,9 @@
+board_manager:
+  additional_urls:
+    - https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+directories:
+  data: /home/khishan/IMU/arduino/.tools/data
+  downloads: /home/khishan/IMU/arduino/.tools/downloads
+  user: /home/khishan/IMU/arduino/.tools/user
+updater:
+  enable_notification: false
